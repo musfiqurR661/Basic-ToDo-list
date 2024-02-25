@@ -1,4 +1,5 @@
 # Basic ToDo List
+<img src="Readme_Image/FirstLook.png">
 
 This is a basic ToDo List application developed during the MAD4B II UIU APP Forum Workshop in Spring 2024.
 
