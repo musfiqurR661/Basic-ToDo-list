@@ -1,5 +1,5 @@
 # Basic ToDo List
-![logo](https://github.com/musfiqurR661/Basic-ToDo-list/blob/main/Readme_Image/FirstLook.png)
+
 This is a basic ToDo List application developed during the MAD4B II UIU APP Forum Workshop in Spring 2024.
 
 ## Description
