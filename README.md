@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
 # Basic ToDo List
-
+![logo](https://github.com/musfiqurR661/Basic-ToDo-list/blob/main/Readme_Image/FirstLook.png)
 This is a basic ToDo List application developed during the MAD4B II UIU APP Forum Workshop in Spring 2024.
 
 ## Description
@@ -13,7 +9,12 @@ This ToDo List app allows users to create tasks, mark them as completed, and del
 ## Screenshots
 
 <!-- Add screenshots or images of your app in action here -->
-<!-- Example: ![Screenshot 1](screenshots/screenshot1.png) -->
+<div align="center">
+  <img src="Readme_Image/Home.png" alt="Screenshot 1" width="200" style="margin-right: 20px;"> 
+  <img src="Readme_Image/NoteList.png" alt="Screenshot 3" width="200">
+  <img src="Readme_Image/Added_Note.png" alt="Screenshot 2" width="200" style="margin-right: 20px;">
+ 
+</div>
 
 ## Features
 
@@ -43,22 +44,9 @@ If you would like to contribute to the development of this project, feel free to
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-=======
-# assignment_task_1
+## Contact Information
 
-A new Flutter project.
+**Name:** Md Musfiqur Rahman  
+**Status:** Undergraduate CSE Student  
+**Email:** [musfiqurm661@gmail.com]
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 07bc573 (todo basic)
->>>>>>> 0dfcfb8 (Basic ToDo List)
